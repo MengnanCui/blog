@@ -1,0 +1,4 @@
+[submodule "mengnanblog/public"]
+	path = mengnanblog/public
+	url = https://github.com/MengnanCui/mengnan.github.io.git
+	branch = main
